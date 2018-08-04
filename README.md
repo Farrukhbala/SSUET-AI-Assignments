@@ -1,4 +1,4 @@
-# SSUET-AI-Assignment-1
+# SSUET-AI
 Assignment # 1 Includes:
 Declare and initialize a variable name.
 Calculating percentage
